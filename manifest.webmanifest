@@ -1,9 +1,9 @@
 {
-  "name": "Genki Kanji Study",
+  "name": "Genki N5 Kanji Trainer",
   "short_name": "Genki Kanji",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#f5f5f7",
-  "theme_color": "#111111",
-  "icons": []
+  "background_color": "#fff8f3",
+  "theme_color": "#f45b18",
+  "description": "Interactive Genki N5 kanji trainer using the supplied source deck."
 }
