@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111111">
+<link rel="manifest" href="manifest.webmanifest">
+<title>Genki Kanji Study</title>
+<style>
+:root{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif;color:#111;background:#f5f5f7}
+*{box-sizing:border-box}body{margin:0}.top{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid #ddd;padding:14px 14px calc(10px + env(safe-area-inset-top))}
+h1{font-size:20px;margin:0 0 10px}.nav{display:flex;gap:7px;overflow:auto}.nav button,.btn{border:0;border-radius:12px;padding:11px 14px;font-size:15px;background:#eee;white-space:nowrap}.nav .on{background:#111;color:#fff}
+main{max-width:720px;margin:auto;padding:16px}.card{background:#fff;border-radius:22px;padding:24px 18px;text-align:center;box-shadow:0 2px 12px #00000012;margin-bottom:14px}
+.kanji{font-size:100px;line-height:1.05;margin:22px 0}.lesson{color:#666}.answer{margin:18px 0;padding:16px;background:#f2f2f7;border-radius:15px;text-align:left}
+.actions{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}.hard{background:#ffe1df}.good{background:#dff5df}.easy{background:#e0edff}
+.stats{display:flex;gap:8px}.stat{flex:1;background:#f5f5f7;border-radius:15px;padding:14px}.stat b{display:block;font-size:24px}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:8px}.tile{background:#fff;border:1px solid #ddd;border-radius:14px;padding:14px 4px;font-size:30px}.tile small{display:block;font-size:10px;color:#777}
+input{width:100%;padding:13px;border:1px solid #ccc;border-radius:12px;font-size:16px;margin:10px 0 14px}
+.note{color:#666;font-size:13px;line-height:1.5}.primary{background:#111;color:#fff}
+</style>
+</head>
+<body>
+<header class="top">
+<h1>🈶 Genki Kanji Study</h1>
+<nav class="nav" id="nav">
+<button data-v="home">Home</button><button data-v="learn">Learn</button><button data-v="review">Review</button><button data-v="all">All Kanji</button>
+</nav>
+</header>
+<main id="app"></main>
+<script>
+/*
+  Content policy for this build:
+  The uploaded Genki PDF is scanned/image-based, so this app does not
+  invent readings or meanings. Add verified card objects to DATA below
+  from the source pages when extracted/confirmed.
+*/
+const DATA = [
+  {k:"一",lesson:"3"},{k:"二",lesson:"3"},{k:"三",lesson:"3"},{k:"四",lesson:"3"},
+  {k:"五",lesson:"3"},{k:"六",lesson:"3"},{k:"七",lesson:"3"},{k:"八",lesson:"3"},
+  {k:"九",lesson:"3"},{k:"十",lesson:"3"}
+];
+
+let state = JSON.parse(localStorage.getItem("genkiKanjiState")||"{}");
+let view="home", index=0, revealed=false;
+
+const $=id=>document.getElementById(id);
+function save(){localStorage.setItem("genkiKanjiState",JSON.stringify(state))}
+function status(c){return state[c.k]?.rating||"new"}
+function go(v){view=v;revealed=false;document.querySelectorAll(".nav button").forEach(b=>b.classList.toggle("on",b.dataset.v===v));render()}
+function rate(r){state[DATA[index].k]={rating:r,seen:true};save();next()}
+function next(){index=(index+1)%DATA.length;revealed=false;render()}
+
+function render(){
+ const a=$("app");
+ if(view==="home") a.innerHTML=`
+ <section class="card"><h2>Quick Study</h2>
+ <p>Learn Genki kanji in short sessions.</p>
+ <div class="stats">
+  <div class="stat"><b>${Object.keys(state).length}</b><small>Studied</small></div>
+  <div class="stat"><b>${Object.values(state).filter(x=>x.rating==="hard").length}</b><small>Review</small></div>
+  <div class="stat"><b>${DATA.length}</b><small>Loaded</small></div>
+ </div><br>
+ <button class="btn primary" onclick="go('learn')">Start learning</button>
+ <p class="note">The final deck will use only verified content from your uploaded Genki material.</p>
+ </section>`;
+ else if(view==="learn") learn(a);
+ else if(view==="review") review(a);
+ else all(a);
+}
+function learn(a){
+ const c=DATA[index];
+ a.innerHTML=`<section class="card">
+ <div class="lesson">Genki Lesson ${c.lesson} · ${index+1}/${DATA.length}</div>
+ <div class="kanji">${c.k}</div>
+ <p>Recall the meaning and readings before revealing.</p>
+ ${revealed?`<div class="answer"><b>Source details</b><br>
+ <p class="note">This card currently contains only the verified kanji character. Readings and meanings will be added from the uploaded source rather than guessed.</p></div>
+ <div class="actions"><button class="btn hard" onclick="rate('hard')">🔴 Hard</button>
+ <button class="btn good" onclick="rate('good')">🟢 Good</button>
+ <button class="btn easy" onclick="rate('easy')">🔵 Easy</button></div>`
+ :`<button class="btn primary" onclick="revealed=true;render()">Reveal</button>`}
+ <br><br><button class="btn" onclick="next()">Next →</button>
+ <p class="note">Status: ${status(c)}</p>
+ </section>`;
+}
+function review(a){
+ const r=DATA.filter(c=>status(c)==="hard");
+ a.innerHTML=`<section class="card"><h2>🔄 Review</h2><p>${r.length} kanji marked Hard.</p>
+ ${r.length?`<button class="btn primary" onclick="index=DATA.indexOf(r[0]);go('learn')">Review now</button>`:`<p class="note">Mark difficult cards as Hard while studying and they will appear here.</p>`}</section>`;
+}
+function all(a){
+ a.innerHTML=`<section class="card"><h2>All Kanji</h2><input id="q" placeholder="Search kanji or lesson..." oninput="filter()"><div id="grid" class="grid"></div></section>`;
+ filter();
+}
+function filter(){
+ const q=($("q")?.value||"").toLowerCase(),g=$("grid");if(!g)return;
+ g.innerHTML=DATA.filter(c=>c.k.includes(q)||("lesson "+c.lesson).includes(q))
+ .map(c=>`<button class="tile" onclick="index=DATA.indexOf(c);go('learn')">${c.k}<small>L${c.lesson}</small></button>`).join("");
+}
+document.querySelectorAll(".nav button").forEach(b=>b.addEventListener("click",()=>go(b.dataset.v)));
+go("home");
+</script>
+</body>
+</html>
