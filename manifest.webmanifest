@@ -1,9 +1,9 @@
 {
-  "name": "Genki N5 Kanji Trainer",
+  "name": "Genki N5 Kanji Book Style",
   "short_name": "Genki Kanji",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#fff8f3",
   "theme_color": "#f45b18",
-  "description": "Interactive Genki N5 kanji trainer using the supplied source deck."
+  "icons": []
 }

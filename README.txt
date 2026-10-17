@@ -1,2 +1,3 @@
-Genki N5 Kanji Trainer — full 145-card deck from the supplied scanned Genki source.
-Upload all files to the same GitHub Pages repository. Replace the previous test files.
+Genki N5 Kanji Book Style
+145 kanji, Lessons 3–12. Preserves the original scanned kanji rows (including highlighted and non-highlighted vocabulary/examples) and includes the original exercise pages for every lesson.
+Upload the extracted files to the root of your existing GitHub Pages repository. Replace old files.

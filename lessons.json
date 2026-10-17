@@ -1,0 +1,75 @@
+{
+  "3": {
+    "exercisePages": [
+      "assets/exercises/L3/p03.jpg",
+      "assets/exercises/L3/p04.jpg"
+    ]
+  },
+  "4": {
+    "exercisePages": [
+      "assets/exercises/L4/p07.jpg",
+      "assets/exercises/L4/p08.jpg"
+    ]
+  },
+  "5": {
+    "exercisePages": [
+      "assets/exercises/L5/p11.jpg",
+      "assets/exercises/L5/p12.jpg",
+      "assets/exercises/L5/p13.jpg",
+      "assets/exercises/L5/p14.jpg"
+    ]
+  },
+  "6": {
+    "exercisePages": [
+      "assets/exercises/L6/p17.jpg",
+      "assets/exercises/L6/p18.jpg",
+      "assets/exercises/L6/p19.jpg",
+      "assets/exercises/L6/p20.jpg"
+    ]
+  },
+  "7": {
+    "exercisePages": [
+      "assets/exercises/L7/p23.jpg",
+      "assets/exercises/L7/p24.jpg",
+      "assets/exercises/L7/p25.jpg"
+    ]
+  },
+  "8": {
+    "exercisePages": [
+      "assets/exercises/L8/p28.jpg",
+      "assets/exercises/L8/p29.jpg",
+      "assets/exercises/L8/p30.jpg"
+    ]
+  },
+  "9": {
+    "exercisePages": [
+      "assets/exercises/L9/p33.jpg",
+      "assets/exercises/L9/p34.jpg",
+      "assets/exercises/L9/p35.jpg",
+      "assets/exercises/L9/p36.jpg"
+    ]
+  },
+  "10": {
+    "exercisePages": [
+      "assets/exercises/L10/p39.jpg",
+      "assets/exercises/L10/p40.jpg",
+      "assets/exercises/L10/p41.jpg",
+      "assets/exercises/L10/p42.jpg"
+    ]
+  },
+  "11": {
+    "exercisePages": [
+      "assets/exercises/L11/p45.jpg",
+      "assets/exercises/L11/p46.jpg",
+      "assets/exercises/L11/p47.jpg",
+      "assets/exercises/L11/p48.jpg"
+    ]
+  },
+  "12": {
+    "exercisePages": [
+      "assets/exercises/L12/p51.jpg",
+      "assets/exercises/L12/p52.jpg",
+      "assets/exercises/L12/p53.jpg"
+    ]
+  }
+}

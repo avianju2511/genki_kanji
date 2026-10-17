@@ -7,7 +7,10 @@
     "kun": "ひと(つ)",
     "on": "いち",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L3_p01_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 2,
@@ -17,7 +20,10 @@
     "kun": "ふた(つ)",
     "on": "に",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L3_p01_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 3,
@@ -27,7 +33,10 @@
     "kun": "みっ(つ)",
     "on": "さん",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L3_p01_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 4,
@@ -37,7 +46,10 @@
     "kun": "よ(ん), よっ(つ)",
     "on": "し",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L3_p01_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 5,
@@ -47,7 +59,10 @@
     "kun": "いつ(つ)",
     "on": "ご",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L3_p01_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 6,
@@ -57,7 +72,10 @@
     "kun": "むっ(つ)",
     "on": "ろく",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L3_p01_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 7,
@@ -67,7 +85,10 @@
     "kun": "なな(つ)",
     "on": "しち",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L3_p01_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 8,
@@ -77,7 +98,10 @@
     "kun": "やっ(つ)",
     "on": "はち",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 1,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L3_p01_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 9,
@@ -87,7 +111,10 @@
     "kun": "ここの(つ)",
     "on": "きゅう, く",
     "lesson": 3,
-    "sourcePage": 1
+    "sourcePage": 2,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L3_p02_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 10,
@@ -97,7 +124,10 @@
     "kun": "とお",
     "on": "じゅう",
     "lesson": 3,
-    "sourcePage": 2
+    "sourcePage": 2,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L3_p02_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 11,
@@ -107,7 +137,10 @@
     "kun": "",
     "on": "ひゃく",
     "lesson": 3,
-    "sourcePage": 2
+    "sourcePage": 2,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L3_p02_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 12,
@@ -117,7 +150,10 @@
     "kun": "",
     "on": "せん",
     "lesson": 3,
-    "sourcePage": 2
+    "sourcePage": 2,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L3_p02_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 13,
@@ -127,7 +163,10 @@
     "kun": "",
     "on": "まん",
     "lesson": 3,
-    "sourcePage": 2
+    "sourcePage": 2,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L3_p02_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 14,
@@ -137,7 +176,10 @@
     "kun": "まる(い)",
     "on": "えん",
     "lesson": 3,
-    "sourcePage": 2
+    "sourcePage": 2,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L3_p02_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 15,
@@ -147,7 +189,10 @@
     "kun": "とき",
     "on": "じ",
     "lesson": 3,
-    "sourcePage": 2
+    "sourcePage": 2,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L3_p02_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 16,
@@ -157,7 +202,10 @@
     "kun": "ひ, か",
     "on": "にち, じつ",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L4_p05_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 17,
@@ -167,7 +215,10 @@
     "kun": "もと",
     "on": "ほん",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L4_p05_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 18,
@@ -177,7 +228,10 @@
     "kun": "ひと",
     "on": "じん, にん",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L4_p05_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 19,
@@ -187,7 +241,10 @@
     "kun": "つき",
     "on": "げつ, がつ",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L4_p05_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 20,
@@ -197,7 +254,10 @@
     "kun": "ひ",
     "on": "か",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L4_p05_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 21,
@@ -207,7 +267,10 @@
     "kun": "みず",
     "on": "すい",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L4_p05_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 22,
@@ -217,7 +280,10 @@
     "kun": "き",
     "on": "もく, ぼく",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L4_p05_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 23,
@@ -227,7 +293,10 @@
     "kun": "かね",
     "on": "きん",
     "lesson": 4,
-    "sourcePage": 5
+    "sourcePage": 5,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L4_p05_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 24,
@@ -237,7 +306,10 @@
     "kun": "つち",
     "on": "ど, と",
     "lesson": 4,
-    "sourcePage": 6
+    "sourcePage": 6,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L4_p06_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 25,
@@ -247,7 +319,10 @@
     "kun": "",
     "on": "よう",
     "lesson": 4,
-    "sourcePage": 6
+    "sourcePage": 6,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L4_p06_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 26,
@@ -257,7 +332,10 @@
     "kun": "うえ, のぼ(る)",
     "on": "じょう",
     "lesson": 4,
-    "sourcePage": 6
+    "sourcePage": 6,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L4_p06_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 27,
@@ -267,7 +345,10 @@
     "kun": "した, くだ(さい)",
     "on": "か, げ",
     "lesson": 4,
-    "sourcePage": 6
+    "sourcePage": 6,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L4_p06_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 28,
@@ -277,7 +358,10 @@
     "kun": "なか",
     "on": "ちゅう",
     "lesson": 4,
-    "sourcePage": 6
+    "sourcePage": 6,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L4_p06_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 29,
@@ -287,7 +371,10 @@
     "kun": "",
     "on": "はん",
     "lesson": 4,
-    "sourcePage": 6
+    "sourcePage": 6,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L4_p06_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 30,
@@ -297,7 +384,10 @@
     "kun": "やま",
     "on": "さん",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L5_p09_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 31,
@@ -307,7 +397,10 @@
     "kun": "かわ",
     "on": "せん",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L5_p09_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 32,
@@ -317,7 +410,10 @@
     "kun": "もと",
     "on": "げん",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L5_p09_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 33,
@@ -327,7 +423,10 @@
     "kun": "",
     "on": "き, け",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L5_p09_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 34,
@@ -337,7 +436,10 @@
     "kun": "",
     "on": "てん",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L5_p09_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 35,
@@ -347,7 +449,10 @@
     "kun": "わたし",
     "on": "し",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L5_p09_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 36,
@@ -357,7 +462,10 @@
     "kun": "いま",
     "on": "こん",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L5_p09_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 37,
@@ -367,7 +475,10 @@
     "kun": "た",
     "on": "でん",
     "lesson": 5,
-    "sourcePage": 9
+    "sourcePage": 9,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L5_p09_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 38,
@@ -377,7 +488,10 @@
     "kun": "おんな",
     "on": "じょ",
     "lesson": 5,
-    "sourcePage": 10
+    "sourcePage": 10,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L5_p10_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 39,
@@ -387,7 +501,10 @@
     "kun": "おとこ",
     "on": "だん, なん",
     "lesson": 5,
-    "sourcePage": 10
+    "sourcePage": 10,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L5_p10_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 40,
@@ -397,7 +514,10 @@
     "kun": "み(る)",
     "on": "けん",
     "lesson": 5,
-    "sourcePage": 10
+    "sourcePage": 10,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L5_p10_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 41,
@@ -407,7 +527,10 @@
     "kun": "い(く)",
     "on": "こう, ぎょう",
     "lesson": 5,
-    "sourcePage": 10
+    "sourcePage": 10,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L5_p10_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 42,
@@ -417,7 +540,10 @@
     "kun": "た(べる)",
     "on": "しょく",
     "lesson": 5,
-    "sourcePage": 10
+    "sourcePage": 10,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L5_p10_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 43,
@@ -427,7 +553,10 @@
     "kun": "の(む)",
     "on": "いん",
     "lesson": 5,
-    "sourcePage": 10
+    "sourcePage": 10,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L5_p10_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 44,
@@ -437,7 +566,10 @@
     "kun": "ひがし",
     "on": "とう",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L6_p15_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 45,
@@ -447,7 +579,10 @@
     "kun": "にし",
     "on": "せい, さい",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L6_p15_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 46,
@@ -457,7 +592,10 @@
     "kun": "みなみ",
     "on": "なん",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L6_p15_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 47,
@@ -467,7 +605,10 @@
     "kun": "きた",
     "on": "ほく, ほっ",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L6_p15_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 48,
@@ -477,7 +618,10 @@
     "kun": "くち",
     "on": "こう",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L6_p15_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 49,
@@ -487,7 +631,10 @@
     "kun": "で(る), だ(す)",
     "on": "しゅつ",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L6_p15_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 50,
@@ -497,7 +644,10 @@
     "kun": "みぎ",
     "on": "う, ゆう",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L6_p15_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 51,
@@ -507,7 +657,10 @@
     "kun": "ひだり",
     "on": "さ",
     "lesson": 6,
-    "sourcePage": 15
+    "sourcePage": 15,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L6_p15_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 52,
@@ -517,7 +670,10 @@
     "kun": "わ(ける)",
     "on": "ぶん, ふん, ぷん",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L6_p16_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 53,
@@ -527,7 +683,10 @@
     "kun": "さき",
     "on": "せん",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L6_p16_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 54,
@@ -537,7 +696,10 @@
     "kun": "う(まれる)",
     "on": "せい, しょう",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L6_p16_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 55,
@@ -547,7 +709,10 @@
     "kun": "おお(きい)",
     "on": "だい, たい",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L6_p16_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 56,
@@ -557,7 +722,10 @@
     "kun": "まな(ぶ)",
     "on": "がく",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L6_p16_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 57,
@@ -567,7 +735,10 @@
     "kun": "そと",
     "on": "がい, げ",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L6_p16_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 58,
@@ -577,7 +748,10 @@
     "kun": "くに",
     "on": "こく",
     "lesson": 6,
-    "sourcePage": 16
+    "sourcePage": 16,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L6_p16_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 59,
@@ -587,7 +761,10 @@
     "kun": "",
     "on": "きょう",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L7_p21_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 60,
@@ -597,7 +774,10 @@
     "kun": "こ",
     "on": "し",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L7_p21_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 61,
@@ -607,7 +787,10 @@
     "kun": "ちい(さい)",
     "on": "しょう",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L7_p21_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 62,
@@ -617,7 +800,10 @@
     "kun": "あ(う)",
     "on": "かい",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L7_p21_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 63,
@@ -627,7 +813,10 @@
     "kun": "",
     "on": "しゃ",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L7_p21_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 64,
@@ -637,7 +826,10 @@
     "kun": "ちち",
     "on": "ふ",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L7_p21_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 65,
@@ -647,7 +839,10 @@
     "kun": "はは",
     "on": "ぼ",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L7_p21_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 66,
@@ -657,7 +852,10 @@
     "kun": "たか(い)",
     "on": "こう",
     "lesson": 7,
-    "sourcePage": 21
+    "sourcePage": 21,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L7_p21_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 67,
@@ -667,7 +865,10 @@
     "kun": "",
     "on": "こう",
     "lesson": 7,
-    "sourcePage": 22
+    "sourcePage": 22,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L7_p22_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 68,
@@ -677,7 +878,10 @@
     "kun": "",
     "on": "まい",
     "lesson": 7,
-    "sourcePage": 22
+    "sourcePage": 22,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L7_p22_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 69,
@@ -687,7 +891,10 @@
     "kun": "",
     "on": "ご",
     "lesson": 7,
-    "sourcePage": 22
+    "sourcePage": 22,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L7_p22_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 70,
@@ -697,7 +904,10 @@
     "kun": "もじ",
     "on": "ぶん, もん",
     "lesson": 7,
-    "sourcePage": 22
+    "sourcePage": 22,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L7_p22_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 71,
@@ -707,7 +917,10 @@
     "kun": "かえ(る)",
     "on": "き",
     "lesson": 7,
-    "sourcePage": 22
+    "sourcePage": 22,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L7_p22_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 72,
@@ -717,7 +930,10 @@
     "kun": "はい(る), い(れる)",
     "on": "にゅう",
     "lesson": 7,
-    "sourcePage": 22
+    "sourcePage": 22,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L7_p22_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 73,
@@ -727,7 +943,10 @@
     "kun": "",
     "on": "いん",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L8_p26_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 74,
@@ -737,7 +956,10 @@
     "kun": "あたら(しい)",
     "on": "しん",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L8_p26_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 75,
@@ -747,7 +969,10 @@
     "kun": "き(く)",
     "on": "ぶん, もん",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L8_p26_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 76,
@@ -757,7 +982,10 @@
     "kun": "つく(る)",
     "on": "さく, さ",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L8_p26_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 77,
@@ -767,7 +995,10 @@
     "kun": "つか(える)",
     "on": "し, じ",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L8_p26_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 78,
@@ -777,7 +1008,10 @@
     "kun": "こと",
     "on": "じ, ず",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L8_p26_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 79,
@@ -787,7 +1021,10 @@
     "kun": "",
     "on": "でん",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L8_p26_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 80,
@@ -797,7 +1034,10 @@
     "kun": "くるま",
     "on": "しゃ",
     "lesson": 8,
-    "sourcePage": 26
+    "sourcePage": 26,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L8_p26_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 81,
@@ -807,7 +1047,10 @@
     "kun": "やす(む)",
     "on": "きゅう",
     "lesson": 8,
-    "sourcePage": 27
+    "sourcePage": 27,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L8_p27_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 82,
@@ -817,7 +1060,10 @@
     "kun": "い(う)",
     "on": "げん, ごん",
     "lesson": 8,
-    "sourcePage": 27
+    "sourcePage": 27,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L8_p27_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 83,
@@ -827,7 +1073,10 @@
     "kun": "よ(む)",
     "on": "どく, とう",
     "lesson": 8,
-    "sourcePage": 27
+    "sourcePage": 27,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L8_p27_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 84,
@@ -837,7 +1086,10 @@
     "kun": "おも(う)",
     "on": "し",
     "lesson": 8,
-    "sourcePage": 27
+    "sourcePage": 27,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L8_p27_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 85,
@@ -847,7 +1099,10 @@
     "kun": "つぎ",
     "on": "じ, し",
     "lesson": 8,
-    "sourcePage": 27
+    "sourcePage": 27,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L8_p27_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 86,
@@ -857,7 +1112,10 @@
     "kun": "なに, なん",
     "on": "か",
     "lesson": 8,
-    "sourcePage": 27
+    "sourcePage": 27,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L8_p27_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 87,
@@ -867,7 +1125,10 @@
     "kun": "",
     "on": "ご",
     "lesson": 9,
-    "sourcePage": 31
+    "sourcePage": 31,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L9_p31_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 88,
@@ -877,7 +1138,10 @@
     "kun": "あと, うし(ろ)",
     "on": "ご, こう",
     "lesson": 9,
-    "sourcePage": 31
+    "sourcePage": 31,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L9_p31_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 89,
@@ -887,7 +1151,10 @@
     "kun": "まえ",
     "on": "ぜん",
     "lesson": 9,
-    "sourcePage": 31
+    "sourcePage": 31,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L9_p31_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 90,
@@ -897,7 +1164,10 @@
     "kun": "な",
     "on": "めい, みょう",
     "lesson": 9,
-    "sourcePage": 31
+    "sourcePage": 31,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L9_p31_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 91,
@@ -907,7 +1177,10 @@
     "kun": "しろ(い)",
     "on": "はく, びゃく",
     "lesson": 9,
-    "sourcePage": 31
+    "sourcePage": 31,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L9_p31_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 92,
@@ -917,7 +1190,10 @@
     "kun": "あめ",
     "on": "う",
     "lesson": 9,
-    "sourcePage": 31
+    "sourcePage": 31,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L9_p31_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 93,
@@ -927,7 +1203,10 @@
     "kun": "か(く)",
     "on": "しょ",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 31,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L9_p31_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 94,
@@ -937,7 +1216,10 @@
     "kun": "とも",
     "on": "ゆう",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 31,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L9_p31_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 95,
@@ -947,7 +1229,10 @@
     "kun": "あいだ",
     "on": "かん, けん",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L9_p32_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 96,
@@ -957,7 +1242,10 @@
     "kun": "いえ",
     "on": "か, け",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L9_p32_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 97,
@@ -967,7 +1255,10 @@
     "kun": "はな(す)",
     "on": "わ",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L9_p32_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 98,
@@ -977,7 +1268,10 @@
     "kun": "すく(ない)",
     "on": "しょう",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L9_p32_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 99,
@@ -987,7 +1281,10 @@
     "kun": "ふる(い)",
     "on": "こ",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L9_p32_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 100,
@@ -997,7 +1294,10 @@
     "kun": "し(る)",
     "on": "ち",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L9_p32_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 101,
@@ -1007,7 +1307,10 @@
     "kun": "く(る)",
     "on": "らい",
     "lesson": 9,
-    "sourcePage": 32
+    "sourcePage": 32,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L9_p32_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 102,
@@ -1017,7 +1320,10 @@
     "kun": "す(む)",
     "on": "じゅう",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L10_p37_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 103,
@@ -1027,7 +1333,10 @@
     "kun": "ただ(しい)",
     "on": "せい, しょう",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L10_p37_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 104,
@@ -1037,7 +1346,10 @@
     "kun": "とし",
     "on": "ねん",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L10_p37_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 105,
@@ -1047,7 +1359,10 @@
     "kun": "う(る)",
     "on": "ばい",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L10_p37_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 106,
@@ -1057,7 +1372,10 @@
     "kun": "か(う)",
     "on": "ばい",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L10_p37_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 107,
@@ -1067,7 +1385,10 @@
     "kun": "まち",
     "on": "ちょう",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L10_p37_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 108,
@@ -1077,7 +1398,10 @@
     "kun": "なが(い)",
     "on": "ちょう",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L10_p37_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 109,
@@ -1087,7 +1411,10 @@
     "kun": "みち",
     "on": "どう",
     "lesson": 10,
-    "sourcePage": 37
+    "sourcePage": 37,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L10_p37_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 110,
@@ -1097,7 +1424,10 @@
     "kun": "ゆき",
     "on": "せつ",
     "lesson": 10,
-    "sourcePage": 38
+    "sourcePage": 38,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L10_p38_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 111,
@@ -1107,7 +1437,10 @@
     "kun": "た(つ)",
     "on": "りつ, りゅう",
     "lesson": 10,
-    "sourcePage": 38
+    "sourcePage": 38,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L10_p38_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 112,
@@ -1117,7 +1450,10 @@
     "kun": "",
     "on": "じ, し",
     "lesson": 10,
-    "sourcePage": 38
+    "sourcePage": 38,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L10_p38_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 113,
@@ -1127,7 +1463,10 @@
     "kun": "よる",
     "on": "や",
     "lesson": 10,
-    "sourcePage": 38
+    "sourcePage": 38,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L10_p38_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 114,
@@ -1137,7 +1476,10 @@
     "kun": "あさ",
     "on": "ちょう",
     "lesson": 10,
-    "sourcePage": 38
+    "sourcePage": 38,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L10_p38_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 115,
@@ -1147,7 +1489,10 @@
     "kun": "も(つ)",
     "on": "じ",
     "lesson": 10,
-    "sourcePage": 38
+    "sourcePage": 38,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L10_p38_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 116,
@@ -1157,7 +1502,10 @@
     "kun": "て",
     "on": "しゅ",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L11_p43_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 117,
@@ -1167,7 +1515,10 @@
     "kun": "かみ",
     "on": "し",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L11_p43_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 118,
@@ -1177,7 +1528,10 @@
     "kun": "す(き)",
     "on": "こう",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L11_p43_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 119,
@@ -1187,7 +1541,10 @@
     "kun": "ちか(い)",
     "on": "きん",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L11_p43_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 120,
@@ -1197,7 +1554,10 @@
     "kun": "あか(るい)",
     "on": "めい, みょう",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L11_p43_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 121,
@@ -1207,7 +1567,10 @@
     "kun": "や(む)",
     "on": "びょう, へい",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L11_p43_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 122,
@@ -1217,7 +1580,10 @@
     "kun": "",
     "on": "いん",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L11_p43_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 123,
@@ -1227,7 +1593,10 @@
     "kun": "うつ(る)",
     "on": "えい",
     "lesson": 11,
-    "sourcePage": 43
+    "sourcePage": 43,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L11_p43_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 124,
@@ -1237,7 +1606,10 @@
     "kun": "",
     "on": "が, かく",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L11_p44_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 125,
@@ -1247,7 +1619,10 @@
     "kun": "うた(う)",
     "on": "か",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L11_p44_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 126,
@@ -1257,7 +1632,10 @@
     "kun": "",
     "on": "し",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L11_p44_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 127,
@@ -1267,7 +1645,10 @@
     "kun": "ところ",
     "on": "しょ",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L11_p44_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 128,
@@ -1277,7 +1658,10 @@
     "kun": "つと(める)",
     "on": "べん",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L11_p44_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 129,
@@ -1287,7 +1671,10 @@
     "kun": "つよ(い)",
     "on": "きょう, ごう",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L11_p44_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 130,
@@ -1297,7 +1684,10 @@
     "kun": "あ(る)",
     "on": "ゆう, う",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L11_p44_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 131,
@@ -1307,7 +1697,10 @@
     "kun": "たび",
     "on": "りょ",
     "lesson": 11,
-    "sourcePage": 44
+    "sourcePage": 44,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L11_p44_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 132,
@@ -1317,7 +1710,10 @@
     "kun": "むかし",
     "on": "",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L12_p49_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 133,
@@ -1327,7 +1723,10 @@
     "kun": "",
     "on": "",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L12_p49_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 134,
@@ -1337,7 +1736,10 @@
     "kun": "かみ",
     "on": "じん, しん",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L12_p49_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 135,
@@ -1347,7 +1749,10 @@
     "kun": "はや(い)",
     "on": "そう, さっ",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L12_p49_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 136,
@@ -1357,7 +1762,10 @@
     "kun": "お(きる), お(こす)",
     "on": "き",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L12_p49_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 137,
@@ -1367,7 +1775,10 @@
     "kun": "うし",
     "on": "ぎゅう",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L12_p49_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 138,
@@ -1377,7 +1788,10 @@
     "kun": "つか(う)",
     "on": "し",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 7,
+    "bookImage": "assets/kanji/L12_p49_r7.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 139,
@@ -1387,7 +1801,10 @@
     "kun": "はたら(く)",
     "on": "どう",
     "lesson": 12,
-    "sourcePage": 49
+    "sourcePage": 49,
+    "sourceRow": 8,
+    "bookImage": "assets/kanji/L12_p49_r8.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 140,
@@ -1397,7 +1814,10 @@
     "kun": "つ(れる)",
     "on": "れん",
     "lesson": 12,
-    "sourcePage": 50
+    "sourcePage": 50,
+    "sourceRow": 1,
+    "bookImage": "assets/kanji/L12_p50_r1.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 141,
@@ -1407,7 +1827,10 @@
     "kun": "わか(れる)",
     "on": "べつ",
     "lesson": 12,
-    "sourcePage": 50
+    "sourcePage": 50,
+    "sourceRow": 2,
+    "bookImage": "assets/kanji/L12_p50_r2.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 142,
@@ -1417,7 +1840,10 @@
     "kun": "たび",
     "on": "ど, と",
     "lesson": 12,
-    "sourcePage": 50
+    "sourcePage": 50,
+    "sourceRow": 3,
+    "bookImage": "assets/kanji/L12_p50_r3.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 143,
@@ -1427,7 +1853,10 @@
     "kun": "あか(い)",
     "on": "せき, しゃく",
     "lesson": 12,
-    "sourcePage": 50
+    "sourcePage": 50,
+    "sourceRow": 4,
+    "bookImage": "assets/kanji/L12_p50_r4.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 144,
@@ -1437,7 +1866,10 @@
     "kun": "あお(い)",
     "on": "せい, しょう",
     "lesson": 12,
-    "sourcePage": 50
+    "sourcePage": 50,
+    "sourceRow": 5,
+    "bookImage": "assets/kanji/L12_p50_r5.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   },
   {
     "id": 145,
@@ -1447,6 +1879,9 @@
     "kun": "いろ",
     "on": "しょく, しき",
     "lesson": 12,
-    "sourcePage": 50
+    "sourcePage": 50,
+    "sourceRow": 6,
+    "bookImage": "assets/kanji/L12_p50_r6.jpg",
+    "examplesSource": "Genki book row — includes both highlighted and non-highlighted vocabulary/examples."
   }
 ]
